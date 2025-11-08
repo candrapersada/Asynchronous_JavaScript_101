@@ -2,7 +2,7 @@ const p = new Promise((resolve, reject) => {
     /* Notice how the promise is immediately resolved, so its fulfilled, with a result == 1 */
     resolve(1);
 })
-    /* First Promise Raction RETURNS a new result, so CREATES ANOTHER PROMISE, RESOLVED, with result == 2 */
+    /* First Promise Raction RETURNS a new result, so CREATES ANOTHER PROMISE, RESOLVED, with result == 2, basically .then() returns a promise, so if you return a value, it will be wrapped in a Promise.resolve(value) */
     .then(result => {console.log(result); return result * 2})
     /* Also RETURNS a new result, so CREATES ANOTHER PROMISE, RESOLVED, with result == 4 */
     .then(result => {console.log(result); return result * 2})

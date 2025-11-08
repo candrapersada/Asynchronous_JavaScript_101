@@ -40,6 +40,7 @@ const user1 = {
 filterUser(user1)
     .then(filteredUser => {
         console.log("User Succefully Validated! Now Querying the backend");
+        /* explicit promise return here, always remember that .then() returns a PROMISE, so if you don't, it will implicitly return a Promise.resolve() */
         return queryBackend(filteredUser)
     })
     .then(response => {

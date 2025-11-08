@@ -5,7 +5,7 @@ Promise.resolve()
 /* Callback-based Web API, after 10 ms -> pushed to the Task Queue */
 setTimeout(() => console.log(2), 10);
 
-/* Explicit Micro Task queue push, 1st a basic console Log, then another MT Q push */
+/* Explicit Micro Task queue push, 1st a basic console.log, then another MicroTask Q push */
 queueMicrotask(() => {
     console.log(3);
     queueMicrotask(() => console.log(4));
